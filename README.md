@@ -1,6 +1,8 @@
 # titlePush
 Pushes an Okta user profile title to Google Workspace without having to enable attribute sync. Allows groups and membership to push from Google to Okta and attributes to sync from Okta to Google. Can be modified to push other attributes as well. 
 
+Requires GAM to be installed. https://github.com/jay0lee/GAM
+
 ## Instructions
 
 Run file with Parameters:
