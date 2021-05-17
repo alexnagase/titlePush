@@ -1,7 +1,7 @@
 # titlePush
 Pushes an Okta user profile title to Google Workspace without having to enable attribute sync
 
-##Instructions
+Instructions
 -u, --url
 
 company.okta.com (replace company with your Okta Tenant URL)
